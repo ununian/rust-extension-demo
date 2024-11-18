@@ -1,0 +1,6 @@
+package component:cubic-root;
+
+/// An example world for the component to target.
+world cubic-root {
+    export share:walker/ast-walker;
+}

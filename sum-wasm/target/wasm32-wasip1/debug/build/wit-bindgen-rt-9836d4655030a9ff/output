@@ -1,0 +1,2 @@
+cargo:rustc-link-lib=wit_bindgen_cabi_realloc0_34_0
+cargo:rustc-link-search=native=/Users/sunyuntian/source/github/rust-extension-demo2/fibonacci-wasm/target/wasm32-wasip1/debug/build/wit-bindgen-rt-9836d4655030a9ff/out

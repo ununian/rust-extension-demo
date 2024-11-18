@@ -1,0 +1,11 @@
+/Users/sunyuntian/source/github/rust-extension-demo2/fibonacci-wasm/target/debug/deps/libbitflags-d95e3f9202d9b1a1.rmeta: /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/lib.rs /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/iter.rs /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/parser.rs /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/traits.rs /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/public.rs /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/internal.rs /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/external.rs
+
+/Users/sunyuntian/source/github/rust-extension-demo2/fibonacci-wasm/target/debug/deps/bitflags-d95e3f9202d9b1a1.d: /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/lib.rs /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/iter.rs /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/parser.rs /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/traits.rs /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/public.rs /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/internal.rs /Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/external.rs
+
+/Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/lib.rs:
+/Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/iter.rs:
+/Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/parser.rs:
+/Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/traits.rs:
+/Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/public.rs:
+/Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/internal.rs:
+/Users/sunyuntian/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/bitflags-2.6.0/src/external.rs:

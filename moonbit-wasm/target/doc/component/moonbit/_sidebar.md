@@ -1,0 +1,8 @@
+- [component/moonbit](component/moonbit/)
+- **In this module**
+  - [ffi](component/moonbit/ffi/members)
+  - [gen](component/moonbit/gen/members)
+  - [interface/exports/share/walker/astWalker](component/moonbit/interface/exports/share/walker/astWalker/members)
+  - [worlds/moonbit](component/moonbit/worlds/moonbit/members)
+- **Dependencies**
+  - [moonbitlang/core](moonbitlang/core/)

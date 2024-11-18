@@ -1,0 +1,5 @@
+package component:moonbit;
+
+world moonbit {
+    export share:walker/ast-walker;
+}

@@ -1,0 +1,5 @@
+package component:fibonacci;
+
+world trigonometric {
+    export share:walker/ast-walker;
+}

@@ -1,0 +1,8 @@
+/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/ffi/top.mbt:64:34-64:37 [E2000] Warning (Alert deprecated): Use infix operator `<<` instead
+/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/ffi/top.mbt:149:27-149:30 [E2000] Warning (Alert deprecated): Use UInt type and infix operator `>>` instead
+/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/gen/interface_exports_share_walker_ast_walker_export.mbt:5:97-5:106 [E2000] Warning (Alert deprecated): Use `reinterpret_as_uint64` instead
+/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/gen/interface_exports_share_walker_ast_walker_export.mbt:5:123-5:132 [E2000] Warning (Alert deprecated): Use `reinterpret_as_uint64` instead
+/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/gen/interface_exports_share_walker_ast_walker_export.mbt:5:147-5:156 [E2000] Warning (Alert deprecated): Use `reinterpret_as_uint64` instead
+/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/gen/interface_exports_share_walker_ast_walker_export.mbt:6:58-6:66 [E2000] Warning (Alert deprecated): Use `reinterpret_as_int64` instead
+/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/gen/interface_exports_share_walker_ast_walker_export.mbt:7:56-7:64 [E2000] Warning (Alert deprecated): Use `reinterpret_as_int64` instead
+/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/gen/interface_exports_share_walker_ast_walker_export.mbt:8:55-8:63 [E2000] Warning (Alert deprecated): Use `reinterpret_as_int64` instead

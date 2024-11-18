@@ -1,0 +1,5 @@
+package component:fibonacci;
+
+world fibonacci {
+    export share:walker/ast-walker;
+}

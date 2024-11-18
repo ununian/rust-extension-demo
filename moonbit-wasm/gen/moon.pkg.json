@@ -1,0 +1,11 @@
+
+{
+      "link": {
+            "wasm": {
+                  "exports": ["cabi_realloc:cabi_realloc", "wasmExportWalk:share:walker/ast-walker#walk"],
+                  "export-memory-name": "memory",
+                  "heap-start-address": 16
+            }
+      }
+      ,"import": [{ "path" : "component/moonbit/ffi", "alias" : "ffi" }, { "path" : "component/moonbit/interface/exports/share/walker/astWalker", "alias" : "astWalker" }]
+}

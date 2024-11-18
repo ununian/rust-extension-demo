@@ -1,0 +1,1 @@
+/Users/sunyuntian/source/github/rust-extension-demo2/fibonacci-wasm/target/wasm32-wasip1/release/fibonacci_wasm.wasm: /Users/sunyuntian/source/github/rust-extension-demo2/fibonacci-wasm/src/bindings.rs /Users/sunyuntian/source/github/rust-extension-demo2/fibonacci-wasm/src/lib.rs

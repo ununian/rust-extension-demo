@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "sum-wasm",
+    "cubic-root-wasm",
+    "wasm-host",
+    "native",
+    "fibonacci-wasm",
+    "trigonometric-wasm",
+]

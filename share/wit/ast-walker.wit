@@ -1,0 +1,15 @@
+package share:walker;
+
+interface ast-walker {
+    record ast-type {
+        content: u64,
+        start: u64,
+        end: u64
+    }
+
+    walk: func(ast: ast-type) -> ast-type;
+}
+
+world ast-handle {
+    export ast-walker;
+}

@@ -1,0 +1,199 @@
+{
+  "source_dir": "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm",
+  "name": "component/moonbit",
+  "packages": [
+    {
+      "is-main": false,
+      "is-third-party": false,
+      "root-path": "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/interface/exports/share/walker/astWalker",
+      "root": "component/moonbit",
+      "rel": "interface/exports/share/walker/astWalker",
+      "files": {
+        "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/interface/exports/share/walker/astWalker/stub.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/interface/exports/share/walker/astWalker/top.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "wbtest-files": {},
+      "test-files": {},
+      "deps": [],
+      "wbtest-deps": [],
+      "test-deps": [],
+      "artifact": "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/target/wasm/release/check/interface/exports/share/walker/astWalker/astWalker.mi"
+    },
+    {
+      "is-main": false,
+      "is-third-party": false,
+      "root-path": "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/worlds/moonbit",
+      "root": "component/moonbit",
+      "rel": "worlds/moonbit",
+      "files": {
+        "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/worlds/moonbit/ffi_import.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/worlds/moonbit/import.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/worlds/moonbit/stub.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/worlds/moonbit/top.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "wbtest-files": {},
+      "test-files": {},
+      "deps": [],
+      "wbtest-deps": [],
+      "test-deps": [],
+      "artifact": "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/target/wasm/release/check/worlds/moonbit/moonbit.mi"
+    },
+    {
+      "is-main": false,
+      "is-third-party": false,
+      "root-path": "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/gen",
+      "root": "component/moonbit",
+      "rel": "gen",
+      "files": {
+        "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/gen/ffi.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/gen/worlds_moonbit_export.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/gen/interface_exports_share_walker_ast_walker_export.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "wbtest-files": {},
+      "test-files": {},
+      "deps": [
+        {
+          "path": "component/moonbit/ffi",
+          "alias": "ffi"
+        },
+        {
+          "path": "component/moonbit/interface/exports/share/walker/astWalker",
+          "alias": "astWalker"
+        }
+      ],
+      "wbtest-deps": [],
+      "test-deps": [],
+      "artifact": "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/target/wasm/release/check/gen/gen.mi"
+    },
+    {
+      "is-main": false,
+      "is-third-party": false,
+      "root-path": "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/ffi",
+      "root": "component/moonbit",
+      "rel": "ffi",
+      "files": {
+        "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/ffi/top.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "wbtest-files": {},
+      "test-files": {},
+      "deps": [],
+      "wbtest-deps": [],
+      "test-deps": [],
+      "artifact": "/Users/sunyuntian/source/github/rust-extension-demo2/moonbit-wasm/target/wasm/release/check/ffi/ffi.mi"
+    }
+  ],
+  "deps": [],
+  "backend": "wasm",
+  "opt_level": "release",
+  "source": null
+}
